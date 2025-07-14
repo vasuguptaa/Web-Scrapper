@@ -20,6 +20,8 @@
 - 📤 CSV/JSON export
 - ✉️ Email output
 
+# V3 not uploaded yet ..
+
 ## 📦 Installation
 
 ```bash
