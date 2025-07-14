@@ -90,7 +90,8 @@ if submit:
         status_placeholder.info("🤖 Querying Gemini model...")
         gemini_model = OpenAI(
             base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
-            api_key="AIzaSyDPoLahoW16TVEAFaeIDjrSh9NcWX2wWwo"
+            api_key="Use your api key here"
+# use your api key here
         )
 
         # Multilingual prompt
